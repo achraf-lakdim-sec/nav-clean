@@ -1,0 +1,14 @@
+# Dependencies and builds
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local data written by the API: scan results must never be committed
+backend/scan_history.json
+backend/scanner_config.json
+
+# Secrets
+.env
