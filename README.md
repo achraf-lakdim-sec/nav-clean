@@ -1,6 +1,6 @@
 # NAV: Network Analysis & Visualization
 
-[![CI](https://github.com/achraf-lakdim-sec/nav/actions/workflows/ci.yml/badge.svg)](https://github.com/achraf-lakdim-sec/nav/actions/workflows/ci.yml)
+[![CI](https://github.com/achraf-lakdim-sec/nav-clean/actions/workflows/ci.yml/badge.svg)](https://github.com/achraf-lakdim-sec/nav-clean/actions/workflows/ci.yml)
 
 NAV is a web app that maps a local network and shows what is exposed on it. A FastAPI backend drives Nmap, and a React front end turns the results into a device list, an interactive topology map, a vulnerability view and a scan history.
 
